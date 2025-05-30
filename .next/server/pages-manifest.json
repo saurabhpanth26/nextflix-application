@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/discover": "pages/api/discover.js",
+  "/api/popular": "pages/api/popular.js",
+  "/api/trending": "pages/api/trending.js",
+  "/browse": "pages/browse.html",
+  "/": "pages/index.html",
+  "/search": "pages/search.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
